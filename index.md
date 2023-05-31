@@ -1,1 +1,3 @@
 # Some Site
+
+[About](/about)
