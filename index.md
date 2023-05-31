@@ -1,5 +1,3 @@
-# Colorado
-# Student Led
-# Chess Association
+# Colorado Student Led Chess Association
 
 [About](about)
